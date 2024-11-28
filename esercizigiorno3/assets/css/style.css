@@ -1,0 +1,32 @@
+body {text-align: center;}
+header img {width: 200px;}
+header nav{ background-color: rgb(242, 242, 209);
+    padding: 0,2 em;
+    border-top: 1px solid rgb(89, 89, 15);
+}
+article {width: 50%;
+    margin:auto;
+    text-align: left;
+}
+#Autore {text-align: center;
+    color: grey;
+    margin-top: 0,5em;
+}
+article img {width: 100%;}
+.div2 {width: 50%;
+    margin: auto;
+    color: red;
+    text-align: left;
+}
+h2 {width: 50%;
+    margin: auto;
+    text-align: left;
+}
+section {width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.div3 {width: 50%;
+    margin: auto;
+    text-align: left;
+}
